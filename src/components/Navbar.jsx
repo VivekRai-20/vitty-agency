@@ -22,9 +22,7 @@ export default function Navbar() {
           <div className="flex items-center space-x-2 cursor-pointer">
             <img src="/logo.png" alt="Vitty Logo" className="h-10 w-auto" />
             <img src="/Vitty.png" alt="Vitty Logo" className="h-10 w-auto" />
-            <span className="text-2xl text-black sm:text-3xl font-bold font-montserrat">
-              Agency
-            </span>
+            
           </div>
         </ScrollLink>
 
